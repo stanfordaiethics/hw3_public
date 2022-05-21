@@ -1,0 +1,5 @@
+torch==1.9.0
+numpy
+scipy
+matplotlib
+opacus==1.1.2
